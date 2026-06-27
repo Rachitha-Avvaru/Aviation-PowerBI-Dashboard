@@ -26,7 +26,7 @@ and geographic regions in the United States.
 2. Flight Phase Analysis — accident distribution by phase
 3. Geographic Trends — state-wise map and monthly patterns
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 ### Page 1 - Overview
 ![Page1](Page1_Overview_Dashboard.png)
 
